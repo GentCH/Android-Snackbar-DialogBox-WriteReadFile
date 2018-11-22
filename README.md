@@ -11,7 +11,7 @@ Clicking "DELETE", a dialog will ask user's permission to delete the content.
 Clicking "HOME" will return to main page.
 
 
-///Steps to add design library:
+# Steps to add design library:
 Step 1: Click "File" -> "Project Structure"
 Step 2: At left, click "App" -> at right, click "Dependencies"
 Step 3: Click "+" -> "1 Library dependency"
