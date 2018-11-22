@@ -17,3 +17,6 @@ Step 2: At left, click "App" -> at right, click "Dependencies"
 Step 3: Click "+" -> "1 Library dependency"
 Step 4: Type "design" and search. Add the design library relevant to the API (usually it appears on the top if the search list). Click "OK".
 Step 5: Click "File" -> "Sync Project with Gradle Files".
+
+
+///Install "app-debug.apk" and try it out :D ///
